@@ -3,6 +3,5 @@ __pycache__/
 *.pyc
 .env
 agentcore_config.json
-output_eval_dataset.jsonl
 results/
 .DS_Store
