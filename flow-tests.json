@@ -1,0 +1,22 @@
+{
+  "flowInputNode": {
+    "nodeName": "FlowInputNode"
+  },
+  "tests": [
+    {
+      "id": "t1_bug",
+      "prompt": "The checkout page crashes when I click Pay.",
+      "expected": "Acknowledges the bug and asks for steps to reproduce and environment."
+    },
+    {
+      "id": "t2_faq",
+      "prompt": "How many days do I have to return an item?",
+      "expected": "Answers that items can be returned within 30 days of delivery."
+    },
+    {
+      "id": "t3_other",
+      "prompt": "Can you invest in my startup?",
+      "expected": "Politely declines and provides the human support phone number 1-800-555-0199."
+    }
+  ]
+}
