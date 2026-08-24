@@ -27,7 +27,7 @@ The automated evaluation was conducted using Amazon Bedrock Evaluations with an 
 
 The automated evaluation was conducted using Amazon Bedrock Evaluations with an LLM-as-a-judge (Amazon Nova Pro) to assess the correctness of the chatbot's responses against expected outcomes. 
 
-**Overall Correctness Score:** [50%]
+**Overall Correctness Score:** [83%]
 
 **Observations:**
 - **Bug Routing (t1_bug):** The model successfully identified the technical issue and initiated the multi-turn information gathering process, asking for steps to reproduce and environment details.
