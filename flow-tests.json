@@ -6,17 +6,17 @@
     {
       "id": "t1_bug",
       "prompt": "The checkout page crashes when I click Pay.",
-      "expected": "Acknowledges the bug and asks for steps to reproduce and environment."
+      "expected": "The assistant acknowledges the bug report regarding the checkout page crash and provides a detailed template asking the user for a description of the issue, steps to reproduce, and environment details (browser, device, OS)."
     },
     {
       "id": "t2_faq",
       "prompt": "How many days do I have to return an item?",
-      "expected": "Answers that items can be returned within 30 days of delivery."
+      "expected": "The assistant acknowledges the question about the return policy and states that detailed information about the return policy will be added later, while inviting the user to ask other questions in the meantime."
     },
     {
       "id": "t3_other",
       "prompt": "Can you invest in my startup?",
-      "expected": "Politely declines and provides the human support phone number 1-800-555-0199."
+      "expected": "The assistant acknowledges the inquiry about investing in a startup and states that the matter will be addressed and the FAQ updated with appropriate details soon, thanking the user for their patience."
     }
   ]
 }
