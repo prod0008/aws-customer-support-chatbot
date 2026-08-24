@@ -22,7 +22,12 @@ An AI-powered customer support chatbot built using Amazon Bedrock Flows, Lambda,
 
 The automated evaluation was conducted using Amazon Bedrock Evaluations with an LLM-as-a-judge (Amazon Nova Pro) to assess the correctness of the chatbot responses against expected outcomes. 
 
-**Overall Correctness Score:** [Insert your score here, e.g., 100% or 3/3]
+
+## 📊 Evaluation Observations
+
+The automated evaluation was conducted using Amazon Bedrock Evaluations with an LLM-as-a-judge (Amazon Nova Pro) to assess the correctness of the chatbot's responses against expected outcomes. 
+
+**Overall Correctness Score:** [83%]
 
 **Observations:**
 - **Bug Routing (t1_bug):** The model successfully identified the technical issue and initiated the multi-turn information gathering process, asking for steps to reproduce and environment details.
